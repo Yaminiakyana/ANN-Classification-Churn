@@ -1,0 +1,30 @@
+# Virtual environment
+venv/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# TensorBoard
+logs/
+
+# Model/checkpoint files
+*.h5
+*.keras
+*.ckpt
+
+# Pickle files
+*.pkl
